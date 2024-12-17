@@ -425,6 +425,4 @@ mage字幕是为给定图像生成文本描述的任务。
 * [量子位](https://www.zhihu.com/question/20472776/answer/691646493)
 * [人工智能前沿讲习](https://mp.weixin.qq.com/s/f2dqulxOPkt7k5hqPsydyQ)
 
-## 赞助我们
 
-<img src="http://data.apachecn.org/img/about/donate.jpg" alt="微信&支付宝" />
